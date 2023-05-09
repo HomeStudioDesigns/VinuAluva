@@ -39,7 +39,19 @@ var APP_DATA = {
           "yaw": 2.0465671230903277,
           "pitch": 0.3920890812868496,
           "rotation": 0,
-          "target": "2-stairdining"
+          "target": "2-family"
+        },
+        {
+          "yaw": 2.2756596574218833,
+          "pitch": 0.11116812605219195,
+          "rotation": 0,
+          "target": "3-wash"
+        },
+        {
+          "yaw": 1.6586224662418747,
+          "pitch": 0.1528734220275858,
+          "rotation": 0,
+          "target": "7-first-floor"
         }
       ],
       "infoHotspots": []
@@ -74,12 +86,6 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.19825387800946,
-          "pitch": 0.08099766401634767,
-          "rotation": 0,
-          "target": "2-stairdining"
-        },
-        {
           "yaw": -1.5635504159696545,
           "pitch": 0.33368176681857165,
           "rotation": 0,
@@ -89,8 +95,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "2-stairdining",
-      "name": "STAIR/DINING",
+      "id": "2-family",
+      "name": "FAMILY",
       "levels": [
         {
           "tileSize": 256,
@@ -118,40 +124,40 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.7527803047879722,
-          "pitch": 0.48955678293760485,
-          "rotation": 0,
-          "target": "7-first-floor"
-        },
-        {
-          "yaw": -1.1305648032310458,
-          "pitch": 0.0896565663425477,
-          "rotation": 0,
-          "target": "6-bed-room-02-"
-        },
-        {
-          "yaw": -2.1388554016860652,
-          "pitch": 0.06623056511266867,
-          "rotation": 0,
-          "target": "5-bed-room-01"
-        },
-        {
-          "yaw": 0.6781747336416561,
-          "pitch": 0.4171573516994336,
+          "yaw": 0.6180742515972106,
+          "pitch": 0.3949805086752818,
           "rotation": 0,
           "target": "3-wash"
         },
         {
-          "yaw": 2.8349983903422338,
-          "pitch": 0.3766756028656211,
-          "rotation": 0,
-          "target": "0-living-room"
-        },
-        {
-          "yaw": 1.2314632281250617,
-          "pitch": 0.10101279580980105,
+          "yaw": 1.225690154094611,
+          "pitch": 0.05428802576439118,
           "rotation": 0,
           "target": "4-kitchen"
+        },
+        {
+          "yaw": -0.7133281274101737,
+          "pitch": 0.4096977282205039,
+          "rotation": 0,
+          "target": "7-first-floor"
+        },
+        {
+          "yaw": -1.1603976521134776,
+          "pitch": 0.06793713224670839,
+          "rotation": 0,
+          "target": "6-bed-room-02-"
+        },
+        {
+          "yaw": -2.1432124781310744,
+          "pitch": -0.022175953505914947,
+          "rotation": 0,
+          "target": "5-bed-room-01"
+        },
+        {
+          "yaw": 3.0171949518118186,
+          "pitch": 0.43340476383502136,
+          "rotation": 0,
+          "target": "0-living-room"
         }
       ],
       "infoHotspots": []
@@ -186,40 +192,40 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -2.3913622912146764,
-          "pitch": -0.024581571290902104,
+          "yaw": -2.7619763484846214,
+          "pitch": 0.40335765340545215,
           "rotation": 0,
-          "target": "5-bed-room-01"
+          "target": "2-family"
         },
         {
-          "yaw": -2.0798019671199963,
-          "pitch": -0.07104290095806576,
+          "yaw": 2.24064646672816,
+          "pitch": 0.1112792945465948,
           "rotation": 0,
-          "target": "6-bed-room-02-"
+          "target": "4-kitchen"
         },
         {
-          "yaw": -1.9693344177317336,
-          "pitch": 0.2414539481115643,
-          "rotation": 0,
-          "target": "2-stairdining"
-        },
-        {
-          "yaw": -2.6761270622094475,
-          "pitch": 0.4712352895383347,
-          "rotation": 0,
-          "target": "2-stairdining"
-        },
-        {
-          "yaw": -2.9080055657848014,
-          "pitch": 0.12610795335221425,
+          "yaw": -2.8571588926716878,
+          "pitch": 0.11899611052105641,
           "rotation": 0,
           "target": "0-living-room"
         },
         {
-          "yaw": 2.2195069323604617,
-          "pitch": 0.203661403868729,
+          "yaw": -1.8587904857781457,
+          "pitch": 0.2350351190523856,
           "rotation": 0,
-          "target": "4-kitchen"
+          "target": "7-first-floor"
+        },
+        {
+          "yaw": -2.435252729028953,
+          "pitch": 0.006678641558625742,
+          "rotation": 0,
+          "target": "5-bed-room-01"
+        },
+        {
+          "yaw": -2.0450241416688755,
+          "pitch": -0.0203334083900657,
+          "rotation": 0,
+          "target": "6-bed-room-02-"
         }
       ],
       "infoHotspots": []
@@ -257,7 +263,7 @@ var APP_DATA = {
           "yaw": 3.112232840309437,
           "pitch": 0.1581207342428108,
           "rotation": 0,
-          "target": "2-stairdining"
+          "target": "2-family"
         },
         {
           "yaw": -2.551827000603703,
@@ -296,14 +302,7 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [
-        {
-          "yaw": -1.2073878421617295,
-          "pitch": 0.015245329259185425,
-          "rotation": 0,
-          "target": "2-stairdining"
-        }
-      ],
+      "linkHotspots": [],
       "infoHotspots": []
     },
     {
@@ -334,14 +333,7 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [
-        {
-          "yaw": 1.00853275123748,
-          "pitch": -0.007507515909168205,
-          "rotation": 0,
-          "target": "2-stairdining"
-        }
-      ],
+      "linkHotspots": [],
       "infoHotspots": []
     },
     {
@@ -389,7 +381,7 @@ var APP_DATA = {
           "yaw": -0.5565115697458296,
           "pitch": 0.6348661521598551,
           "rotation": 0,
-          "target": "2-stairdining"
+          "target": "2-family"
         },
         {
           "yaw": -2.4470684381933676,
@@ -609,7 +601,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "VINU ALUVA 02",
+  "name": "VINU ALUVA",
   "settings": {
     "mouseViewMode": "qtvr",
     "autorotateEnabled": false,
